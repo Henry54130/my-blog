@@ -1,0 +1,113 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="500" fill="#ffffff"></rect>
+
+  <!-- 標題 -->
+  <text x="600" y="65" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="32" font-weight="700" fill="#222222">
+    貼文靈感的產生流程
+  </text>
+
+  <text x="600" y="105" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="20" fill="#666666">
+    CAP 原則
+  </text>
+
+
+  <!-- ==================== -->
+  <!-- 1. Collecting -->
+  <!-- ==================== -->
+
+  <rect x="70" y="165" width="300" height="230" rx="20" fill="#F7F9FC" stroke="#3B82F6" stroke-width="4"></rect>
+
+  <circle cx="120" cy="215" r="28" fill="#3B82F6"></circle>
+
+  <text x="120" y="224" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="22" font-weight="700" fill="#ffffff">
+    1
+  </text>
+
+  <text x="160" y="220" font-family="Iansui, 芫荽, sans-serif" font-size="27" font-weight="700" fill="#222222">
+    Collecting
+  </text>
+
+  <text x="220" y="275" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="21" font-weight="600" fill="#333333">
+    蒐集
+  </text>
+
+  <text x="220" y="315" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="17" fill="#666666">
+    蒐集素材、資訊與靈感
+  </text>
+
+  <text x="220" y="345" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="17" fill="#666666">
+    建立原始素材池
+  </text>
+
+
+  <!-- 箭頭 1 -->
+  <line x1="390" y1="280" x2="450" y2="280" stroke="#888888" stroke-width="4"></line>
+
+  <polygon points="450,280 432,270 432,290" fill="#888888"></polygon>
+
+
+  <!-- ==================== -->
+  <!-- 2. Assembling -->
+  <!-- ==================== -->
+
+  <rect x="450" y="165" width="300" height="230" rx="20" fill="#F7F9FC" stroke="#10B981" stroke-width="4"></rect>
+
+  <circle cx="500" cy="215" r="28" fill="#10B981"></circle>
+
+  <text x="500" y="224" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="22" font-weight="700" fill="#ffffff">
+    2
+  </text>
+
+  <text x="540" y="220" font-family="Iansui, 芫荽, sans-serif" font-size="27" font-weight="700" fill="#222222">
+    Assembling
+  </text>
+
+  <text x="600" y="275" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="21" font-weight="600" fill="#333333">
+    組合
+  </text>
+
+  <text x="600" y="315" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="17" fill="#666666">
+    組合不同素材與觀點
+  </text>
+
+  <text x="600" y="345" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="17" fill="#666666">
+    形成貼文雛形
+  </text>
+
+
+  <!-- 箭頭 2 -->
+  <line x1="770" y1="280" x2="830" y2="280" stroke="#888888" stroke-width="4"></line>
+
+  <polygon points="830,280 812,270 812,290" fill="#888888"></polygon>
+
+
+  <!-- ==================== -->
+  <!-- 3. Purifying -->
+  <!-- ==================== -->
+
+  <rect x="830" y="165" width="300" height="230" rx="20" fill="#F7F9FC" stroke="#F59E0B" stroke-width="4"></rect>
+
+  <circle cx="880" cy="215" r="28" fill="#F59E0B"></circle>
+
+  <text x="880" y="224" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="22" font-weight="700" fill="#ffffff">
+    3
+  </text>
+
+  <text x="920" y="220" font-family="Iansui, 芫荽, sans-serif" font-size="27" font-weight="700" fill="#222222">
+    Purifying
+  </text>
+
+  <text x="980" y="275" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="21" font-weight="600" fill="#333333">
+    提煉
+  </text>
+
+  <text x="980" y="315" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="17" fill="#666666">
+    篩選、整理與精煉內容
+  </text>
+
+  <text x="980" y="345" text-anchor="middle" font-family="Iansui, 芫荽, sans-serif" font-size="17" fill="#666666">
+    形成最終貼文靈感
+  </text>
+
+</svg>
